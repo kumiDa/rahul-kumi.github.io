@@ -11,8 +11,8 @@ categories: learning til
 ### {{entry["date"]}}
     {% for item in entry.items %}
 - #### [{{item.title}}]({{item.url}})
-        {% if item.title %}
-    {{ item.title }}
+        {% if item.description %}
+    {{ item.description }}
         {% endif %}
         {% for tag in item.tags %}
     `{{tag}}`
