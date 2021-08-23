@@ -5,7 +5,8 @@ permalink: /about/
 ---
 I am still articulating this, so for now watch me tweet...
 
-<a class="twitter-timeline" href="https://twitter.com/RahulKumaresan?ref_src=twsrc%5Etfw">Watch me tweet!</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/RahulKumaresan?ref_src=twsrc%5Etfw">Watch me tweet!</a> 
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
